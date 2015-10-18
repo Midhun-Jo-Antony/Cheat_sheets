@@ -1,0 +1,164 @@
+{
+    "id": "Famous_Books",
+    "name": "Famous Books and its Authors in India",
+    "metadata": {
+        "sourceName": "Books",
+        "sourceUrl": "http://www.gkduniya.com/authors-books"
+    },
+    "template_type": "reference",
+    "section_order": [
+        ""
+        ],
+    "sections": [{
+           "key":"A Conceptual Encyclopaedia of Guru Granth Sahib",
+           "val":"S.S.Kohli"
+          },{
+           "key":"A Secular Agenda",
+           "val":"Arun Shourie"
+          },{
+           "key":"A Suitable Boy",
+           "val":"Vikram Seth"
+          },{
+           "key":"Akbarnama",
+           "val":"Abul Fazal" 
+          },{
+           "key":"An Autobiography",
+           "val":"Jawaharlal Nehru"
+          },{
+            "key":"An idealist View of Life ",
+            "val":"Dr.S.Radhakrishnan"
+          },{
+            "key":"Arion and the Dolphin",
+            "val":"Vikram Seth"
+          },{
+            "key":"Arthashastra",
+            "val":"Kautilya"
+          },{
+            "key":"Ashtadhyayi",
+            "val":"Panini"
+          },{
+            "key":"Autobiography of an Unknown Indian ",
+            "val":"Nirad C. Chaudhuri"
+          },{
+            "key":"A Reveolutionary Life",
+            "val":"Laxmi Sehgal"
+          },{
+            "key":"Ain-i-Akbari",
+            "val":"Abul Faza"
+          },{
+            "key":"Ajatshatru",
+            "val":"Jai Shankar Prasad"
+          },{
+            "key":"Anandmath",
+            "val":"Bankim Chandra Chatterjee "
+          },{
+            "key":"Area of Darkness",
+            "val":"V.S. Naipaul"
+          },{
+            "key":"Broken Wings",
+            "val":"Sarojini Naidu"
+          },{
+            "key":"Bunch of Old Letters",
+            "val":"Jawaharlal Nehru"
+          },{
+            "key":"Bride for the Sahib and Other Stories",
+            "val":"Khushwant Singh"
+          },{
+            "key":"By God’s Decree",
+            "val":"Kapil Dev"
+          },{
+            "key":"Chandalika",
+            "val":"Rabindranath Tagore"
+          },{
+            "key":"Conquest of Self",
+            "val":"Mahatma Gandhi"
+          },{
+            "key":"Chitra",
+            "val":"Rabindranath Tagore"
+          },{
+            "key":"Crescent Moon",
+            "val":"Rabindranath Tagore"
+           },{
+            "key":"Convenient Action:Gujarat's Response to Climate Change",
+            "val":"Narendra Modi"
+          },{
+            "key":"Devadas",
+            "val":"Sarat Chandra Chatterjee"
+          },{
+            "key":"Durgesh Nandini",
+            "val":"Bankim Chandra Chatterjee"
+          },{
+            "key":"Dharmashastra",
+            "val":"Manu"
+          },{
+            "key":"Discovery of India",
+            "val":"Jawaharlal Nehru"
+          },{
+            "key":"Eternal India",
+            "val":"Indira Gandhi"
+          },{
+            "key":"Fall of a Sparrow",
+            "val":"Salim Ali"
+          },{
+            "key":"Fortynine Days",
+            "val":"Amrita Pritam"
+          },{
+            "key":"Gita Rahasya",
+            "val":"Bal Gangadhar Tilak"
+          },{
+            "key":"Gitanjali",
+            "val":"Rabindra Nath Tagore"
+          }, {
+            "key":"Glimpses of World History",
+            "val":"Jawaharlal Nehru"
+          }, {
+            "key":"Gora",
+            "val":"Rabindra Nath Tagore"
+          }, {
+            "key":"Hind Swaraj",
+            "val":"M K Gandhi"
+         }, {
+            "key":">India 2020: A Vision for the New Millennium",
+            "val":"Dr A P J Abdul Kalam & Dr Y S Rajan"
+          }, {
+            "key":"India-From Midnight to the Millennium",
+            "val":"Shashi Tharoor"  
+          }, {
+            "key":"Indian Home Rule",
+            "val":"M K Gandhi"
+          }, {
+            "key":"It is Always Possible",
+            "val":"Kiran Bedi"
+           }, {
+            "key":"My Experiment With Truth",
+            "val":"M K Gandhi"
+          }, {
+            "key":"My Life and Times",
+            "val":"V V Giri"  
+           }, {
+            "key":"My Truth",
+            "val":"Indira Gandhi"
+          }, {
+            "key":"New Dimensions of India’s Foreign Policy",
+            "val":"Atal Behari Vajpayee"
+          }, {
+            "key":"Operation Bluestar-the True Story",
+            "val":"Lt-Gen K S&nbsp"
+         }, {
+            "key":"Our Films, Their Films",
+            "val":"Satyajit Ray"
+          }, {
+            "key":"Pakistan Papers",
+            "val":"Mani Shankar Aiyer"  
+          }, {
+            "key":"Panchtantra",
+            "val":"Vishnu Sharma"
+          }, {
+            "key":"Pather Panchali",
+            "val":"Bibhuti Bhushan Bandyopadhyaya"
+    
+        }]
+      
+    
+  }
+}
